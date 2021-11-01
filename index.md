@@ -2,6 +2,16 @@
 
 ### My Keywords
 
+Keywords for me I: \#Cyber Security Researcher
+- \#AI and CyberSec
+- \#Federated Learning
+- \#Adversarial Machine Learning
+- \#Intrusion detection
+- \#SItuation Awareness
+- \#Dark Net Traffic Analysis
+- \#Data Science Security
+- \#Blockchain Security
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
