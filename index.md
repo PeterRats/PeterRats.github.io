@@ -11,6 +11,7 @@ Keywords for me I: Cyber Security Researcher
 - \#Dark Net Traffic Analysis
 - \#Data Science Security
 - \#Blockchain Security
+
 Keywords for me II: Analyst on startups in many fields
 - \#Enthusiast on cutting-edge technology
 - \#Curiousity about the startups
