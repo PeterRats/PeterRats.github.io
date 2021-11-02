@@ -37,6 +37,8 @@ This includes two directions:
 
 8 years of studying and researching has built me priceless ability on fast learning, reading, and doing researches on a specific topics. Also, it feels really great to know some many great researchers, whether they are in Hong Kong, Guang Dong, Beijing or the UK, whether they are PhD students, postdocs, new faculties or respected senior professors. 
 
+In these years, I have also learnt knowledge in various fields in IT industry, including IoT, blockchain, VR techs. The more knowledge I absorbed, the hungerer I become on learning in new fields. 
+
 ## Model United Nations and My Startup
 
 Model United Nations is a welcomed student excurricular activity in Chinese Mainland. I am the founder of the largest nation-wide independent non-profit MUN conference and has been in this activity for 11 years. This eleven-year experience has taught me many things and form my ability of establishing and running a teanm. 
