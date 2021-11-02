@@ -18,7 +18,15 @@ Keywords for me II: Analyst on startups in many fields
 - \#Fast learner
 - \#Founder of my own tiny startup
 
+## Research
 
+Research Fields: Indersection of AI and Cyber Security
+
+This includes two directions:
+- Using AI techs to solve traditional security problems in a new way
+  - AI analysis on Darknet traffic to achieve website fingerprinting
+    -  Modifying the obfs4 pluggable transport to camouflage the packet flow and escape from the above detection
+   
 
 
 
