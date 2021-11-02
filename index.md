@@ -1,6 +1,6 @@
-## 郑浩宇 Haoyu (Peter) ZHENG
+# 郑浩宇 Haoyu (Peter) ZHENG
 
-### My Keywords
+## My Keywords
 
 Keywords for me I: Cyber Security Researcher
 - \#AI and CyberSec
@@ -12,6 +12,15 @@ Keywords for me I: Cyber Security Researcher
 - \#Data Science Security
 - \#Blockchain Security
 Keywords for me II: Analyst on startups in many fields
+- \#Enthusiast on cutting-edge technology
+- \#Curiousity about the startups
+- \#Fast learner
+- \#Founder of my own tiny startup
+
+
+
+
+
 
 
 
