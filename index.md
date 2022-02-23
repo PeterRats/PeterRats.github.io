@@ -1,53 +1,82 @@
-# 郑浩宇 Haoyu (Peter) ZHENG
+# Haoyu (Peter) ZHENG 郑浩宇 鄭浩宇
 
-## My Keywords
+Just call me Peter or "Rats" would be fine.
 
-Keywords for me I: Cyber Security Researcher
+## My Keywords 我的关键词
+
+Keywords for me I: Cyber Security Researcher 网络安全研究者
 - \#AI and CyberSec
 - \#Federated Learning
 - \#Adversarial Machine Learning
-- \#Intrusion detection
-- \#SItuation Awareness
-- \#Dark Net Traffic Analysis
-- \#Data Science Security
-- \#Blockchain Security
 
-Keywords for me II: Analyst on startups in many fields
+### My publication
+
+SECURITY ISSUES OF FEDERATED LEARNING IN REAL-LIFE APPLICATIONS (as first author)
+H. P. Zheng; S. Sthapit; G. Epiphaniou; C. Maple
+Published on IEEE CADE forum
+https://ieeexplore.ieee.org/abstract/document/9650963
+
+More specifically, I have some knowledge in the following area:
+- \#Security of Federated Learning Systems
+- \#Defence mechanisms on adversarial machine learning attack
+- \#Intrusion detection or abnormalty analysis by traffic analysis
+- \#Situation Awareness
+- \#Dark Net traffic analysis and camouflage
+
+I am also curious on the following topics:
+
+- \#Blockchain Security and Metaverse, including VR or AR
+- \#IoT services
+- \#SaaS and PaaS
+- \#Web 3.0 (if it is really a well-defined idea)
+
+Keywords for me II: Startup founder in education 教育行业创业者
+
+- \#Ex-curriculum education in China
+- \#Model United Nations and other activities
+- \#Founder of a comprehensive education agency
+
+Keywords for me III: Life-time Learner 长期学习者
 - \#Enthusiast on cutting-edge technology
-- \#Curiousity about the startups
+- \#Curiousity about the outstanding startups
 - \#Fast learner
 - \#Founder of my own tiny startup
 
-## Research
 
-Research Fields: Indersection of AI and Cyber Security
+
+## My Researches 我的科研领域
+
+Research Fields: Intersection of AI and Cyber Security
 
 This includes two directions:
-- Using AI techs to solve traditional security problems in a new way
-  - AI analysis on Darknet traffic to achieve website fingerprinting
-    - Modifying the obfs4 pluggable transport to camouflage the packet flow and escape from the above detection
-  - Utilizing CNN, RNN or LSTM to analyse the abnormal traffic of mobile phones
-    - THis methodology is also available to detect whether the host is using a proxy.
 - The security of AI architecture
   - Adversarial Machine Learning
     - Generating adversarial examples and implementing defence mechanisms on machine learning models
     - Raising up a framework for evaluating the existing defence mechanisms
   - Federated Learning
     - Security issues on Federated Learning systems
+- Using AI techs to solve traditional security problems in a new way
+  - AI analysis on Darknet traffic to achieve website fingerprinting
+    - Modifying the obfs4 pluggable transport to camouflage the packet flow and escape from the above detection
+  - Utilizing CNN, RNN or LSTM to analyse the abnormal traffic of mobile phones
+    - THis methodology is also available to detect whether the host is using a proxy.
+
 
 8 years of studying and researching has built me priceless ability on fast learning, reading, and doing researches on a specific topics. Also, it feels really great to know some many great researchers, whether they are in Hong Kong, Guang Dong, Beijing or the UK, whether they are PhD students, postdocs, new faculties or respected senior professors. 
 
 In these years, I have also learnt knowledge in various fields in IT industry, including IoT, blockchain, VR techs. The more knowledge I absorbed, the hungerer I become on learning in new fields. 
 
-## Model United Nations and My Startup
+## My Startup in education 我在教育产业中的创业
 
-Model United Nations is a welcomed student excurricular activity in Chinese Mainland. I am the founder of the largest nation-wide independent non-profit MUN conference and has been in this activity for 11 years. This eleven-year experience has taught me many things and form my ability of establishing and running a teanm. 
+### Starting from Model United Nations
 
-Although MUN seems irrelevant to my major research in Cyber Security， I still find it very worthy ror spending some time on it. It is a great chance to meet and communicate with the young interesting excellent students across the country. Making friends with them, exchanging ideas and opinion, as well as learning from each other, are very precious opportunitry for my personal development. I enjoyed making friends a lot.
+Model United Nations is a welcomed student excurriculum activity in Chinese Mainland. I am the founder of the largest nation-wide independent non-profit MUN conference and has been in this activity for 11 years. This eleven-year experience has taught me many things and form my ability of establishing and running a team. **Now my team is holding an official endorsement to provide better and more diversed activities to the students across the giant China.**
+
+Although MUN seems irrelevant to my major research in Cyber Security， I still find it very worthy spending some time on it. It is a great chance to meet and communicate with the young interesting excellent students across the country. Making friends with them, exchanging ideas and opinion, as well as learning from each other, are very precious opportunitry for my personal development. I enjoyed making friends a lot.
 
 ### My startup
 
-My startup is an agency to facilitate students studying abroad. Having a small but very effecient team, we help the undergraduate students in many dimensions to apply for their ideal postgraduate abroad study universities. 
+My startup is an agency to facilitate students studying abroad. Having a small but very effecient team, we help the undergraduate students in many dimensions to apply for their ideal postgraduate abroad study universities. In the future, I am adding more services into the agency and make it a comprehensive education agency on excurricular activities for students of different ages.
 
 **The experience in MUN and my startup has given me much understanding on evaluating a startup by its members. Furthermore, I got to learn some ABCs about company running, shares and finance.**
 
@@ -55,17 +84,19 @@ My startup is an agency to facilitate students studying abroad. Having a small b
 ## Alumini of RDFZhk (The High School Affiliated to Renmin University of China -- HK alumni association 人大附中香港校友会) 
 Being the secretary gerenal of the HK alumni association, it is a proud for me to know so many brilliant alumni, whose ages differ from thirties or fourties(some even brought their children when we organized some gathering activities) to new freshmen who just graduated from RDFZ and came to HK for undergraduate study. The senior alumins are really helpful, and communicating with them has broadened my vision a lot and taught me some great lessons on life and work.
 
-## Venture Capital Analyst
+## Venture Capital and Incubators
 
-Currently, I am curious to become an analyst on VC or Angel Investments. Being an euthusiast on cutting-edge techs, I am always thrilled by researching the startups that has great potential developments. Although I have not had any hands-on experience on angel investments, I sincerely feel that this is a job that would bring me great sense of accomplishment and I will never get exhausted on it.
+I admire institutes like Sequoia Seed or Y Combinator a lot. Digging out a new startup with bright future and go along with it to witness its success. It would be an extra thrill if the startup is about some real tech stuff and it really means something to the rest of the world. 
 
-Investments in early rounds (Seed, pre-A round) would be very different from the late round PE investment or dealings on stock markets. For early rounds, the startups are not having a mature commercial patterns. Usually what they have is a initial team of personnel, an idea or a prototype of their products. Thus for the investors, it is crucial to evaluate the company by its initial members team and the idea they raised up. It is like climbing the mountains in the night time, reaching the peak and catching the first shine of light in the dawn. That is the magic that attracted me to this field.  
+I am curious to become an analyst on VC or Angel Investments. Being an euthusiast on cutting-edge techs, I am always thrilled by researching the startups that has great potential developments. Although I have not had any hands-on experience on angel investments, I sincerely feel that this is a job that would bring me great sense of accomplishment and I will never get exhausted on it.
 
-Thank you for reading my self-introduction. I am always willing to make new friends with great people. Feel free to reach me by the contacts in my README.md file.
+Investments in early rounds (Seed, Angle, Pre-A round) would be very different from the late round PE investment or dealings on stock markets. For early rounds, the startups are not having a mature commercial patterns. Usually what they have is a initial team of personnel, an idea or a prototype of their products. Thus for the investors, it is crucial to evaluate the company by its initial members team and the idea they raised up. It is like climbing the mountains in the night time, reaching the peak and catching the first shine of light in the dawn. That is the magic that attracted me to this field.  
+
+Thank you for reading my self-introduction. I am always willing to make new friends with great people. Feel free to reach me by the contacts in the source code of this page.
 
 Haoyu Peter ZHENG
 
-updated 2021.11
+updated 2022.02
 
 ## Miscellaneous things（or in my word, fun facts） about me
 
@@ -82,6 +113,8 @@ updated 2021.11
 
 <div style='display: none'>
 
+Email me at peter.rats[at]gmail.com. 
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
