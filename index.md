@@ -1,6 +1,6 @@
 # Haoyu (Peter) ZHENG 郑浩宇 鄭浩宇
 
-Just call me Peter or "Rats" would be fine.
+Just call me Peter or "Rats" would be fine. 
 
 ## My Keywords 我的关键词
 
@@ -42,6 +42,13 @@ Keywords for me III: Life-time Learner 长期学习者
 - \#Fast learner
 - \#Founder of my own tiny startup
 
+
+## My Footprints我的足迹
+
+- University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple (but with no funding)
+- Hong Kong University of Science and Technology 香港科技大学. Research Assistant in Cybersec Lab
+- the Hong Kong Polytechnic University 香港理工大学
+- The high school affiliated to Renmin University of China 人大附中
 
 
 ## My Researches 我的科研领域
