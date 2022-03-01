@@ -43,7 +43,7 @@ Keywords for me III: Life-time Learner 长期学习者
 - \#Founder of my own tiny startup
 
 
-## My Footprints我的足迹
+## My Footprints 我的足迹
 
 - University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple (but with no funding)
 - Hong Kong University of Science and Technology 香港科技大学. Research Assistant in Cybersec Lab
