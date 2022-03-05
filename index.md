@@ -69,7 +69,7 @@ This includes two directions:
     - THis methodology is also available to detect whether the host is using a proxy.
 
 
-8 years of studying and researching has built me priceless ability on fast learning, reading, and doing researches on a specific topics. Also, it feels really great to know some many great researchers, whether they are in Hong Kong, Guang Dong, Beijing or the UK, whether they are PhD students, postdocs, new faculties or respected senior professors. 
+8 years of studying and researching has built me priceless ability on fast learning, reading, and doing researches on a list of specific topics. Also, it feels really great to know some many great researchers, whether they are in Hong Kong, Guang Dong, Beijing or the UK, whether they are PhD students, postdocs, new faculties or respected senior professors. 
 
 In these years, I have also learnt knowledge in various fields in IT industry, including IoT, blockchain, VR techs. The more knowledge I absorbed, the hungerer I become on learning in new fields. 
 
