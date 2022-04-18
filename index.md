@@ -1,6 +1,8 @@
 # Haoyu (Peter) ZHENG 郑浩宇 鄭浩宇
 
 Just call me Peter or "Rats" would be fine. 
+Looking for highly-motivated startup founders! 积极寻找非常自我驱动的创业者，欢迎找我聊聊！
+Contact in the source code of the page. 我的联系方式点击查看网页源代码即可找到。
 
 ## My Keywords 我的关键词
 
@@ -36,7 +38,7 @@ Keywords for me II: Startup founder in education 教育行业创业者
 - \#Model United Nations and other activities
 - \#Founder of a comprehensive education agency
 
-Keywords for me III: Life-time Learner 长期学习者
+Keywords for me III: Life-time Learner on early round Venture Capital 早期风投的长期学习者
 - \#Enthusiast on cutting-edge technology
 - \#Curiousity about the outstanding startups
 - \#Fast learner
@@ -45,6 +47,7 @@ Keywords for me III: Life-time Learner 长期学习者
 
 ## My Footprints 我的足迹
 
+- MIRACLEPLUS Campus Scout Project 奇绩创坛 青年伯乐计划
 - University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple (but with no funding)
 - Hong Kong University of Science and Technology 香港科技大学. Research Assistant in Cybersec Lab
 - the Hong Kong Polytechnic University 香港理工大学
@@ -93,6 +96,8 @@ Being the secretary gerenal of the HK alumni association, it is a proud for me t
 
 ## Venture Capital and Incubators
 
+I am very proud to join the 2022 Miracleplus (奇绩创坛) F22. We are looking for highly-motivated startup founders from all over the world. You do not have to present a BP. Feel free to contact me!
+
 I admire institutes like Sequoia Seed or Y Combinator a lot. Digging out a new startup with bright future and go along with it to witness its success. It would be an extra thrill if the startup is about some real tech stuff and it really means something to the rest of the world. 
 
 I am curious to become an analyst on VC or Angel Investments. Being an euthusiast on cutting-edge techs, I am always thrilled by researching the startups that has great potential developments. Although I have not had any hands-on experience on angel investments, I sincerely feel that this is a job that would bring me great sense of accomplishment and I will never get exhausted on it.
@@ -103,7 +108,7 @@ Thank you for reading my self-introduction. I am always willing to make new frie
 
 Haoyu Peter ZHENG
 
-updated 2022.02
+updated 2022.04
 
 ## Miscellaneous things（or in my word, fun facts） about me
 
@@ -121,6 +126,9 @@ updated 2022.02
 <div style='display: none'>
 
 Email me at peter.rats[at]gmail.com. 
+  
+WeChat: PeterZHENGHY
+Please mention the reason why you add me on Wechat.
   
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
