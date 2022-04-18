@@ -96,7 +96,7 @@ My startup is an agency to facilitate students studying abroad. Having a small b
 ## Alumini of RDFZhk (The High School Affiliated to Renmin University of China -- HK alumni association 人大附中香港校友会) 
 Being the secretary gerenal of the HK alumni association, it is a proud for me to know so many brilliant alumni, whose ages differ from thirties or fourties(some even brought their children when we organized some gathering activities) to new freshmen who just graduated from RDFZ and came to HK for undergraduate study. The senior alumins are really helpful, and communicating with them has broadened my vision a lot and taught me some great lessons on life and work.
 
-## Venture Capital and Incubators
+## Venture Capital and Incubators 早期风投与孵化器
 
 I am very proud to join the 2022 Miracleplus (奇绩创坛) F22. We are looking for highly-motivated startup founders from all over the world. You do not have to present a BP. Feel free to contact me!
 
