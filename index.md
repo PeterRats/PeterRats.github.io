@@ -48,6 +48,7 @@ I got quite great outcomes in my work:
     - I have sourced around 50 startups worldwide and recommend them to MiraclePlus
     - 10 of them successfully get an interview from the founders of MiraclePlus
     - Two of the above finally were invested by MiraclePlus and invited to the MP acceleration camp.
+    - These two are in Metverse industry. I also sourced a lot of other excellent startups in various industry.
     - Generally for every half year (as a season in MiraclePlus), around 6000 startups are sourced, and no more than 60 in them are invested.
     - 2/50 vs 60/6000
   - Others:
@@ -128,7 +129,7 @@ Thank you for reading my self-introduction. I am always willing to make new frie
 
 Haoyu Peter ZHENG
 
-updated 2022.00
+updated 2022.09
 
 ## Miscellaneous things（or in my word, fun facts） about me
 
