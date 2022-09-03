@@ -2,7 +2,7 @@
 
 Just call me Peter or "Rats" would be fine. 
 
-Looking for highly-motivated startup founders! 积极寻找非常自我驱动的创业者，欢迎找我聊聊！
+(Continously)Looking for highly-motivated startup founders! 积极寻找非常自我驱动的创业者，欢迎找我聊聊！
 
 Contact in the source code of the page. 我的联系方式点击查看网页源代码即可找到。
 
@@ -13,48 +13,54 @@ Keywords for me I: Cyber Security Researcher 网络安全研究者
 - \#Federated Learning
 - \#Adversarial Machine Learning
 
-### My publication
+Publication seen below.
 
-SECURITY ISSUES OF FEDERATED LEARNING IN REAL-LIFE APPLICATIONS (as first author)
-H. P. Zheng; S. Sthapit; G. Epiphaniou; C. Maple
-Published on IEEE CADE forum
-https://ieeexplore.ieee.org/abstract/document/9650963
-
-More specifically, I have some knowledge in the following area:
-- \#Security of Federated Learning Systems
-- \#Defence mechanisms on adversarial machine learning attack
-- \#Intrusion detection or abnormalty analysis by traffic analysis
-- \#Situation Awareness
-- \#Dark Net traffic analysis and camouflage
-
-I am also curious on the following topics:
-
-- \#Blockchain Security and Metaverse, including VR or AR
-- \#IoT services
-- \#SaaS and PaaS
-- \#Web 3.0 (if it is really a well-defined idea)
-
-Keywords for me II: Startup founder in education 教育行业创业者
-
-- \#Ex-curriculum education in China
-- \#Model United Nations and other activities
-- \#Founder of a comprehensive education agency
-
-Keywords for me III: Life-time Learner on early round Venture Capital 早期风投的长期学习者
+Keywords for me II: Life-time Learner on early round Venture Capital 早期风投的长期学习者
 - \#Enthusiast on cutting-edge technology
 - \#Curiousity about the outstanding startups
 - \#Fast learner
 - \#Founder of my own tiny startup
 
+Keywords for me III: Startup founder in education 教育行业创业者
+
+- \#Ex-curriculum education in China
+- \#Model United Nations and other activities
+- \#Founder of a comprehensive education agency
+
+
+
 
 ## My Footprints 我的足迹
 
-- MIRACLEPLUS Campus Scout Project 奇绩创坛 青年伯乐计划
-- University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple (but with no funding)
+- MIRACLEPLUS Campus Scout Project 奇绩创坛 青年伯乐计划(done) "Graduated" as a Senior Scout
+  - MIRACLEPLUS : Formly Y-Combinator China
+- University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple(Alan Turing Fellow)
 - Hong Kong University of Science and Technology 香港科技大学. Research Assistant in Cybersec Lab
 - the Hong Kong Polytechnic University 香港理工大学
 - The high school affiliated to Renmin University of China 人大附中
 
+## Venture Capital and Incubators 早期风投与孵化器
+
+I am very proud to join the 2022 Miracleplus (奇绩创坛) F22. We are looking for highly-motivated startup founders from all over the world. You do not have to present a BP. Feel free to contact me!(done on Aug. 2022)
+
+I got quite great outcomes in my work:
+  - Data on me: 
+    - I have sourced around 50 startups worldwide and recommend them to MiraclePlus
+    - 10 of them successfully get an interview from the founders of MiraclePlus
+    - Two of the above finally were invested by MiraclePlus and invited to the MP acceleration camp.
+    - Generally for every half year (as a season in MiraclePlus), around 6000 startups are sourced, and no more than 60 in them are invested.
+    - 2/50 vs 60/6000
+  - Others:
+    - Being group leader for two batches of interns.
+    - 100% satisfaction on my work from an anomynous investigation done by my leader.
+
+I admire institutes like Sequoia Seed or Y Combinator a lot. Digging out a new startup with bright future and go along with it to witness its success. It would be an extra thrill if the startup is about some real tech stuff and it really means something to the rest of the world. 
+
+I am curious to become an analyst on VC or Angel Investments. Being an euthusiast on cutting-edge techs, I am always thrilled by researching the startups that has great potential developments. Although I have not had any hands-on experience on angel investments, I sincerely feel that this is a job that would bring me great sense of accomplishment and I will never get exhausted on it.
+
+Investments in early rounds (Seed, Angle, Pre-A round) would be very different from the late round PE investment or dealings on stock markets. For early rounds, the startups are not having a mature commercial patterns. Usually what they have is a initial team of personnel, an idea or a prototype of their products. Thus for the investors, it is crucial to evaluate the company by its initial members team and the idea they raised up. It is like climbing the mountains in the night time, reaching the peak and catching the first shine of light in the dawn. That is the magic that attracted me to this field.  
+
+I am also interested in "making deals happen", matching the high-potential startups with proper VCs. This is what we called "Financial Advisor" FA.
 
 ## My Researches 我的科研领域
 
@@ -78,6 +84,27 @@ This includes two directions:
 
 In these years, I have also learnt knowledge in various fields in IT industry, including IoT, blockchain, VR techs. The more knowledge I absorbed, the hungerer I become on learning in new fields. 
 
+### My publication
+
+SECURITY ISSUES OF FEDERATED LEARNING IN REAL-LIFE APPLICATIONS (as first author)
+H. P. Zheng; S. Sthapit; G. Epiphaniou; C. Maple
+Published on IEEE CADE forum
+https://ieeexplore.ieee.org/abstract/document/9650963
+
+More specifically, I have some knowledge in the following area:
+- \#Security of Federated Learning Systems
+- \#Defence mechanisms on adversarial machine learning attack
+- \#Intrusion detection or abnormalty analysis by traffic analysis
+- \#Situation Awareness
+- \#Dark Net traffic analysis and camouflage
+
+I am also curious on the following topics:
+
+- \#Blockchain Security and Metaverse, including VR or AR
+- \#IoT services
+- \#SaaS and PaaS
+- \#Web 3.0 (if it is really a well-defined idea)
+
 ## My Startup in education 我在教育产业中的创业
 
 ### Starting from Model United Nations
@@ -96,21 +123,12 @@ My startup is an agency to facilitate students studying abroad. Having a small b
 ## Alumini of RDFZhk (The High School Affiliated to Renmin University of China -- HK alumni association 人大附中香港校友会) 
 Being the secretary gerenal of the HK alumni association, it is a proud for me to know so many brilliant alumni, whose ages differ from thirties or fourties(some even brought their children when we organized some gathering activities) to new freshmen who just graduated from RDFZ and came to HK for undergraduate study. The senior alumins are really helpful, and communicating with them has broadened my vision a lot and taught me some great lessons on life and work.
 
-## Venture Capital and Incubators 早期风投与孵化器
-
-I am very proud to join the 2022 Miracleplus (奇绩创坛) F22. We are looking for highly-motivated startup founders from all over the world. You do not have to present a BP. Feel free to contact me!
-
-I admire institutes like Sequoia Seed or Y Combinator a lot. Digging out a new startup with bright future and go along with it to witness its success. It would be an extra thrill if the startup is about some real tech stuff and it really means something to the rest of the world. 
-
-I am curious to become an analyst on VC or Angel Investments. Being an euthusiast on cutting-edge techs, I am always thrilled by researching the startups that has great potential developments. Although I have not had any hands-on experience on angel investments, I sincerely feel that this is a job that would bring me great sense of accomplishment and I will never get exhausted on it.
-
-Investments in early rounds (Seed, Angle, Pre-A round) would be very different from the late round PE investment or dealings on stock markets. For early rounds, the startups are not having a mature commercial patterns. Usually what they have is a initial team of personnel, an idea or a prototype of their products. Thus for the investors, it is crucial to evaluate the company by its initial members team and the idea they raised up. It is like climbing the mountains in the night time, reaching the peak and catching the first shine of light in the dawn. That is the magic that attracted me to this field.  
 
 Thank you for reading my self-introduction. I am always willing to make new friends with great people. Feel free to reach me by the contacts in the source code of this page.
 
 Haoyu Peter ZHENG
 
-updated 2022.04
+updated 2022.00
 
 ## Miscellaneous things（or in my word, fun facts） about me
 
