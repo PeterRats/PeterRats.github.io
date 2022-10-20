@@ -32,6 +32,8 @@ Keywords for me III: Startup founder in education 教育行业创业者
 
 ## My Footprints 我的足迹
 
+- TusStar 清华启迪之星创投 investment assistant 投资助理
+  - TusStar: One of the largest angle fund and incubator in China, under TsingHua University. 
 - MIRACLEPLUS Campus Scout Project 奇绩创坛 青年伯乐计划(done) "Graduated" as a Senior Scout
   - MIRACLEPLUS : Formly Y-Combinator China
 - University of Warwick 华威大学. MSc in Cybersec. Got a PhD endorsement from Professor Carsten Maple(Alan Turing Fellow)
@@ -40,6 +42,8 @@ Keywords for me III: Startup founder in education 教育行业创业者
 - The high school affiliated to Renmin University of China 人大附中
 
 ## Venture Capital and Incubators 早期风投与孵化器
+
+Now I am in TusStar (under TsingHua University).
 
 I am very proud to join the 2022 Miracleplus (奇绩创坛) F22. We are looking for highly-motivated startup founders from all over the world. You do not have to present a BP. Feel free to contact me!(done on Aug. 2022)
 
